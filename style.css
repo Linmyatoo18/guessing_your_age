@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.txt{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+#input{
+    background-color: rgb(190, 190, 216);
+    font-size: 20rem;
+    height: 350px;
+    width: 350px;
+    border-radius: 20%;
+    border: 5px solid;
+}
+#submit{
+    background-color: #1fb424;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+.submit:hover{
+    background-color: #4cafaa;
+    color: white;
+}
+
+
+
+
+#txt-2{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+
+
+
