@@ -3,7 +3,7 @@ let age;
 let txt = "You are ";
 let years = " years old";
 let year = " year old";
-let emoji = "💀";
+let emoji = " 💀";
 
 document.getElementById("submit").onclick = function(){
     age = document.getElementById("input").value;
